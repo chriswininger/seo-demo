@@ -67,6 +67,15 @@ realistic for the dynamic nature of the site under development.
 `npm instsall`
 `npm start:docker` this should do all the things
 
+## Resources
+
+* [What will it look like on Twitter?](https://cards-dev.twitter.com/validator)
+* [Create-React-App SEO Suggestions](https://create-react-app.dev/docs/title-and-meta-tags/)
+* [Keycloak with SSR](https://github.com/react-keycloak/react-keycloak#ssr)
+* [Discussion of NextJs vs ...](https://spectrum.chat/react/general/hand-rolled-ssr~463ac88a-0bf9-4df6-9636-4050103eb94a)
+* [Blog Post on SPA SEO](https://yalantis.com/blog/search-engine-optimization-for-react-apps/)
+* [Role Your own RSC Vid](https://youtu.be/NwyQONeqRXA)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
