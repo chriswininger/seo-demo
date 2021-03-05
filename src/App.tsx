@@ -9,8 +9,8 @@ function App() {
     <div className="App">
       <Router>
         <header className="App-header">
-          <div className="seo-demo-site-title">Super Real Site</div>
-          <div className="seo-demo-site-nave">
+          <h1 className="seo-demo-site-title">Super Real Site</h1>
+          <div className="seo-demo-site-nav">
             <Link to="component/pkg:maven/org.sonatype/nexusmcnexusface@1.2.3">
               Try Some Maven
             </Link>
